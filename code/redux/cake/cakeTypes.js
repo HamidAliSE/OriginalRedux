@@ -1,1 +1,2 @@
 export const CAKE_ORDERED = 'CAKE_ORDERED';
+export const CAKE_RESTOCKED = 'CAKE_RESTOCKED';
